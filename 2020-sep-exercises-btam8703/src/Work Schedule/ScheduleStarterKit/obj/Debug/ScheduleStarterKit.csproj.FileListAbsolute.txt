@@ -1,0 +1,13 @@
+C:\Users\btam8\Documents\GitHub\2020-sep-exercises-btam8703\src\Work Schedule\ScheduleStarterKit\bin\Debug\ScheduleStarterKit.dll.config
+C:\Users\btam8\Documents\GitHub\2020-sep-exercises-btam8703\src\Work Schedule\ScheduleStarterKit\bin\Debug\ScheduleStarterKit.dll
+C:\Users\btam8\Documents\GitHub\2020-sep-exercises-btam8703\src\Work Schedule\ScheduleStarterKit\bin\Debug\ScheduleStarterKit.pdb
+C:\Users\btam8\Documents\GitHub\2020-sep-exercises-btam8703\src\Work Schedule\ScheduleStarterKit\bin\Debug\EntityFramework.dll
+C:\Users\btam8\Documents\GitHub\2020-sep-exercises-btam8703\src\Work Schedule\ScheduleStarterKit\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\btam8\Documents\GitHub\2020-sep-exercises-btam8703\src\Work Schedule\ScheduleStarterKit\bin\Debug\FreeCode.Exceptions.dll
+C:\Users\btam8\Documents\GitHub\2020-sep-exercises-btam8703\src\Work Schedule\ScheduleStarterKit\bin\Debug\EntityFramework.xml
+C:\Users\btam8\Documents\GitHub\2020-sep-exercises-btam8703\src\Work Schedule\ScheduleStarterKit\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\btam8\Documents\GitHub\2020-sep-exercises-btam8703\src\Work Schedule\ScheduleStarterKit\obj\Debug\ScheduleStarterKit.csproj.CoreCompileInputs.cache
+C:\Users\btam8\Documents\GitHub\2020-sep-exercises-btam8703\src\Work Schedule\ScheduleStarterKit\obj\Debug\ScheduleStarterKit.csproj.CopyComplete
+C:\Users\btam8\Documents\GitHub\2020-sep-exercises-btam8703\src\Work Schedule\ScheduleStarterKit\obj\Debug\ScheduleStarterKit.dll
+C:\Users\btam8\Documents\GitHub\2020-sep-exercises-btam8703\src\Work Schedule\ScheduleStarterKit\obj\Debug\ScheduleStarterKit.pdb
+C:\Users\btam8\Documents\GitHub\2020-sep-exercises-btam8703\src\Work Schedule\ScheduleStarterKit\obj\Debug\ScheduleStarterKit.csprojAssemblyReference.cache

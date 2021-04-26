@@ -1,0 +1,11 @@
+C:\Users\btam8\Documents\GitHub\assessment-1-btam8703\AssessmentOMST\OMSTSystem\bin\Debug\OMSTSystem.dll.config
+C:\Users\btam8\Documents\GitHub\assessment-1-btam8703\AssessmentOMST\OMSTSystem\bin\Debug\OMSTSystem.dll
+C:\Users\btam8\Documents\GitHub\assessment-1-btam8703\AssessmentOMST\OMSTSystem\bin\Debug\OMSTSystem.pdb
+C:\Users\btam8\Documents\GitHub\assessment-1-btam8703\AssessmentOMST\OMSTSystem\bin\Debug\EntityFramework.dll
+C:\Users\btam8\Documents\GitHub\assessment-1-btam8703\AssessmentOMST\OMSTSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\btam8\Documents\GitHub\assessment-1-btam8703\AssessmentOMST\OMSTSystem\bin\Debug\EntityFramework.xml
+C:\Users\btam8\Documents\GitHub\assessment-1-btam8703\AssessmentOMST\OMSTSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\btam8\Documents\GitHub\assessment-1-btam8703\AssessmentOMST\OMSTSystem\obj\Debug\OMSTSystem.csproj.CoreCompileInputs.cache
+C:\Users\btam8\Documents\GitHub\assessment-1-btam8703\AssessmentOMST\OMSTSystem\obj\Debug\OMSTSystem.csproj.CopyComplete
+C:\Users\btam8\Documents\GitHub\assessment-1-btam8703\AssessmentOMST\OMSTSystem\obj\Debug\OMSTSystem.dll
+C:\Users\btam8\Documents\GitHub\assessment-1-btam8703\AssessmentOMST\OMSTSystem\obj\Debug\OMSTSystem.pdb

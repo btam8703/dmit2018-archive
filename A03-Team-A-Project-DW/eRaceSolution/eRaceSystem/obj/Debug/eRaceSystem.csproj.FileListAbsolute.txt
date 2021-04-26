@@ -1,0 +1,12 @@
+C:\Users\btam8\Documents\GitHub\A03-Team-A-Project-DW\eRaceSolution\eRaceSystem\bin\Debug\eRaceSystem.dll.config
+C:\Users\btam8\Documents\GitHub\A03-Team-A-Project-DW\eRaceSolution\eRaceSystem\bin\Debug\eRaceSystem.dll
+C:\Users\btam8\Documents\GitHub\A03-Team-A-Project-DW\eRaceSolution\eRaceSystem\bin\Debug\eRaceSystem.pdb
+C:\Users\btam8\Documents\GitHub\A03-Team-A-Project-DW\eRaceSolution\eRaceSystem\bin\Debug\EntityFramework.dll
+C:\Users\btam8\Documents\GitHub\A03-Team-A-Project-DW\eRaceSolution\eRaceSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\btam8\Documents\GitHub\A03-Team-A-Project-DW\eRaceSolution\eRaceSystem\bin\Debug\EntityFramework.xml
+C:\Users\btam8\Documents\GitHub\A03-Team-A-Project-DW\eRaceSolution\eRaceSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\btam8\Documents\GitHub\A03-Team-A-Project-DW\eRaceSolution\eRaceSystem\obj\Debug\eRaceSystem.csproj.CoreCompileInputs.cache
+C:\Users\btam8\Documents\GitHub\A03-Team-A-Project-DW\eRaceSolution\eRaceSystem\obj\Debug\eRaceSystem.csproj.CopyComplete
+C:\Users\btam8\Documents\GitHub\A03-Team-A-Project-DW\eRaceSolution\eRaceSystem\obj\Debug\eRaceSystem.dll
+C:\Users\btam8\Documents\GitHub\A03-Team-A-Project-DW\eRaceSolution\eRaceSystem\obj\Debug\eRaceSystem.pdb
+C:\Users\btam8\Documents\GitHub\A03-Team-A-Project-DW\eRaceSolution\eRaceSystem\obj\Debug\eRaceSystem.csprojAssemblyReference.cache
